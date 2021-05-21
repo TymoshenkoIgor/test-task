@@ -6,4 +6,8 @@
 ![terraform_plan4](https://user-images.githubusercontent.com/23104828/119169543-cfc49a00-ba6a-11eb-89e5-17440c83379d.png)
 ![terraform_plan5](https://user-images.githubusercontent.com/23104828/119169549-d226f400-ba6a-11eb-92e3-d36a2006c03d.png)
 
+# screenshots with the command “terraform apply”
 ![terraform_apply_result](https://user-images.githubusercontent.com/23104828/119169815-1dd99d80-ba6b-11eb-99a3-64cf90456a1b.png)
+
+# screenshots of load balancer.
+![load_balancer](https://user-images.githubusercontent.com/23104828/119170166-8b85c980-ba6b-11eb-9c94-af3aa5e536c1.png)
